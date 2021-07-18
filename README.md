@@ -17,6 +17,7 @@ These are neural networks when they operate in an unsupervised or stochastic man
 to reduce size, classify, correlate, and conduct regressions. In each RBM, there are two levels, one that is visible and another
 that is hidden within the DBM. The two layers are connected and do not have connections within a layer. It is possible to determine 
 the intrinsic relationship among binary data by usingthe properties of RBMs, whose energy functions are specified as follows:
+
 <img src="./Research Paper/Equation.png" width = "300" height = "200" align=center />
 
 ### NEURAL NETWORK LAYERS:
@@ -29,6 +30,9 @@ a general class of algorithms used to reduce the size of input data representati
 
 <img src="./Research Paper/Neural Network Layers.jpg" width = "300" height = "300" align=center />  <img src="./Research Paper/NetworkModel.jpg" width = "300" height = "190" align=center />
 
+
+
+<img src="./Research Paper/Classification.png" width = "300" height = "200" align=center />  
 <img src="./HAR-CNN-Keras/Dataset.png" width = "300" height = "200" align=center />  
 
 ### Project Made by- Aryan Karn
