@@ -12,14 +12,23 @@ and 92% precision.
 ### PROPOSED MODEL:
 <img src="./Research Paper/ProposedModel.jpg" width = "2000" height = "500" align=center /> 
 
-
-### NEURAL NETWORK LAYERS:
-<img src="./Research Paper/Neural Network Layers.jpg" width = "300" height = "300" align=center />  <img src="./Research Paper/NetworkModel.jpg" width = "300" height = "190" align=center />
-
 ###  RESTRICTED BOLTZMANN MACHINE EQUATION
 These are neural networks when they operate in an unsupervised or stochastic manner. According to Hinton [20], they can be used 
 to reduce size, classify, correlate, and conduct regressions. In each RBM, there are two levels, one that is visible and another
 that is hidden within the DBM. The two layers are connected and do not have connections within a layer. It is possible to determine 
 the intrinsic relationship among binary data by usingthe properties of RBMs, whose energy functions are specified as follows:
+<img src="./Research Paper/Equation.png" width = "300" height = "200" align=center />
+
+### NEURAL NETWORK LAYERS:
+These networks are made up of three neuronal units connected directly to their inputs. As a rule, there is a lesser number of
+hidden units than visible ones. Encoding (compression) and reconstructing (reconstruction) are the two steps in the autoencoding 
+process. We need to find the smallest error possible efficient way to represent the input data (i.e., a compact representation). 
+DBN auto-encoders are models containing auto-encoder regression-based models that are used to create generative models for 
+extracting features from encrypted data. Data vectors are usually stored in the last hidden layer. Moreover, auto-encoders are 
+a general class of algorithms used to reduce the size of input data representations.
+
+<img src="./Research Paper/Neural Network Layers.jpg" width = "300" height = "300" align=center />  <img src="./Research Paper/NetworkModel.jpg" width = "300" height = "190" align=center />
+
+<img src="./HAR-CNN-Keras/Dataset.png" width = "300" height = "200" align=center />  
 
 ### Project Made by- Aryan Karn
