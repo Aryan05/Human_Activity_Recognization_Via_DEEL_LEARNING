@@ -31,7 +31,4 @@ a general class of algorithms used to reduce the size of input data representati
 <img src="./Research Paper/Neural Network Layers.jpg" width = "300" height = "300" align=center />  <img src="./Research Paper/NetworkModel.jpg" width = "300" height = "190" align=center />
 
 
-### CLASSIFICATION RESULTS
-<img src="./Research Paper/Classification.png" width = "600" height = "150" align=center />  <img src="./HAR-CNN-Keras/Dataset.png" width = "200" height = "150" align=center />  
-
 ### Project Made by- Aryan Karn & Dharm Raj Maurya
